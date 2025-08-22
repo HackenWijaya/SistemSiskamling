@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -68,4 +67,10 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 =======
 # SistemSiskamling
 SistemSiskamling
->>>>>>> 8f14d4762b16e83449ad89ce1315594365992a14
+Sistem Siskamling adalah aplikasi web berbasis Laravel PHP Framework untuk mengelola jadwal ronda. Sistem ini memungkinkan pengguna untuk mendaftar, melihat jadwal ronda, dan bagi admin untuk mengelola data pengguna, jadwal, serta laporan keamanan.
+
+Struktur proyek mengikuti standar Laravel dengan folder app yang berisi Http (Controllers, Middleware, Providers) dan Models, folder routes untuk definisi jalur aplikasi, serta resources dan public untuk tampilan dan aset. Database dikelola menggunakan MySQL dengan migrasi melalui Artisan.
+
+Sistem ini dirancang agar pengelolaan ronda lebih rapi, aman, dan terstruktur, memudahkan koordinasi antar anggota komunitas, serta memastikan jadwal ronda dapat diakses secara online dengan mudah.
+
+Teknologi utama yang digunakan: PHP Laravel, MySQL, HTML, dan CSS.
